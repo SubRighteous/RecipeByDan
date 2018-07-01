@@ -31,10 +31,9 @@ const CookiesRecipe = {
     'Directions' : ssml`
     <speak>
         <break time="200ms" strength="weak"/>
-        This Recipe will yeild 3 Dozen, <say-as interpret-as="fraction">2+1/2</say-as> inch cookies.
+        This Recipe will yield 3 Dozen, <say-as interpret-as="fraction">2+1/2</say-as> inch cookies.
         <break time="200ms" strength="weak"/>
-        Before getting started,
-        <break time="100ms" strength="weak"/>
+        <break time="200ms" strength="weak"/>
         Preheat the oven to 375 degrees.
     </speak>
     `,
