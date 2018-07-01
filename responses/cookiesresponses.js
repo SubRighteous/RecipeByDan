@@ -1,6 +1,6 @@
 'use strict';
 
-const {ssml} = require('/Users/Daniel Rys/Desktop/RecipeByDan/functions/utils');
+const {ssml} = require('./utils');
 
 
 const CookiesRecipe = {
