@@ -14,7 +14,7 @@ const CookiesRecipe = {
     <speak>
         Ok, Getting the test version of Chewy Chocolate Chip Cookies.
         <break time="1s" strength="weak"/>
-        Please Stand By.
+        Please stand by.
         <break time="200ms" strength="weak"/>
          <audio src="https://firebasestorage.googleapis.com/v0/b/recipebydan.appspot.com/o/audio%2FAssistantBeamUp.ogg?alt=media">
             Broken Plate
@@ -54,7 +54,7 @@ const CookiesRecipe = {
     
     'Step_2' : ssml`
     <speak>
-        Step 2, read a cookbook.
+        Step 2, get someone else to read it for you.
     </speak>
     `,
     
