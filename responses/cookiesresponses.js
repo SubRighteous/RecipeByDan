@@ -12,7 +12,7 @@ const CookiesRecipe = {
     
     'leadIntoRecipe': ssml`
     <speak>
-        Ok, Getting the test version of Chewy Chocolate Chip Cookies.
+        Ok, Getting the test version of <prosody rate="fast">Chewy Chocolate Chip Cookies</prosody>.
         <break time="1s" strength="weak"/>
         Please stand by.
         <break time="200ms" strength="weak"/>
@@ -36,6 +36,22 @@ const CookiesRecipe = {
         Before we start,
         <break time="200ms" strength="weak"/>
         Preheat the oven to 375 degrees.
+        <break time="200ms" strength="weak"/>
+        Step 1, Beat the butter, light brown sugar, and corn syrup together until fluffy. 
+        <break time="200ms" strength="weak"/>
+        Add in the vanilla extract, baking powder, salt, baking soda and mix in the egg.
+        <break time="200ms" strength="weak"/>
+        Editor's Note : Beat well.
+        <break time="200ms" strength="weak"/>
+        Step 2, Drop Cookie dough by the rounded tablespoon onto lightly greased or parchment-lined sheet pans. 
+        <break time="200ms" strength="weak"/>
+        And Bake for 12 to 14 minutes.
+        <break time="200ms" strength="weak"/>
+        For the chewist cookies, do not overbake.
+        <break time="200ms" strength="weak"/>
+        The cookies will look slightly underdone in the middle, but will set up as they cool.
+        <break time="200ms" strength="weak"/>
+        Cool on the baking sheets for 5 minutes.
     </speak>
     `,
     
@@ -69,13 +85,29 @@ const CookiesRecipe = {
     
     'Step_1' : ssml`
     <speak>
-        Step 1, Get a cookbook.
+        Step 1, Beat the butter, light brown sugar, and corn syrup together until fluffy. 
+        <break time="200ms" strength="weak"/>
+        Add in the vanilla extract, baking powder, salt, baking soda and mix in the egg.
+        <break time="200ms" strength="weak"/>
+        Editor's Note : Beat well.
     </speak>
     `,
     
     'Step_2' : ssml`
     <speak>
-        Step 2, get someone else to read it for you.
+        Step 2, Drop Cookie dough by the rounded tablespoon onto lightly greased or parchment-lined sheet pans. 
+        <break time="200ms" strength="weak"/>
+        And Bake for 12 to 14 minutes.
+    </speak>
+    `,
+    'PreHeat' : ssml`
+    <speak>
+        Preheat the oven to 375 degrees.
+    </speak>
+    `,
+    'Bake' : ssml`
+    <speak>
+        Bake for 12 to 14 minutes.
     </speak>
     `,
     
