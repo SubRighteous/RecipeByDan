@@ -33,6 +33,7 @@ const CookiesRecipe = {
         <break time="200ms" strength="weak"/>
         This Recipe will yield 3 Dozen, <say-as interpret-as="fraction">2+1/2</say-as> inch cookies.
         <break time="200ms" strength="weak"/>
+        Before we start,
         <break time="200ms" strength="weak"/>
         Preheat the oven to 375 degrees.
     </speak>
