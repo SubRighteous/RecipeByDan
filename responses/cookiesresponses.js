@@ -30,19 +30,40 @@ const CookiesRecipe = {
     
     'Directions' : ssml`
     <speak>
-        Currently there are no Directions.
         <break time="200ms" strength="weak"/>
-        Will be added soon.
+        This Recipe will yeild 3 Dozen, <say-as interpret-as="fraction">2+1/2</say-as> inch cookies.
+        <break time="200ms" strength="weak"/>
+        Before getting started,
         <break time="100ms" strength="weak"/>
-        Dont worry about it.
+        Preheat the oven to 375 degrees.
     </speak>
     `,
     
     'Ingredients' : ssml`
     <speak>
-        Currently there are no Ingredients.
+        For this Recipe, you will need.
         <break time="200ms" strength="weak"/>
-        Sorry.
+        12 tablespoons
+        <break time="100ms" strength="weak"/>
+        or <say-as interpret-as="fraction">1+1/2</say-as> sticks of butter.
+        <break time="200ms" strength="weak"/>
+        <say-as interpret-as="fraction">1+1/4</say-as> cups of light brown sugar, firmly packed.
+        <break time="200ms" strength="weak"/>
+        <say-as interpret-as="fraction">1/4</say-as> cup of light corn syrup.
+        <break time="200ms" strength="weak"/>
+        2 teaspoons of vanilla extract.
+        <break time="200ms" strength="weak"/>
+        <say-as interpret-as="fraction">3/4</say-as> teaspoon of baking powder.
+        <break time="200ms" strength="weak"/>
+        <say-as interpret-as="fraction">3/4</say-as> teaspoon of salt.
+        <break time="200ms" strength="weak"/>
+        <say-as interpret-as="fraction">1/4</say-as> teaspoon of baking soda.
+        <break time="200ms" strength="weak"/>
+        1 large egg.
+        <break time="200ms" strength="weak"/>
+        <say-as interpret-as="fraction">2+1/4</say-as> cups of unbleached all-purpose flour.
+        <break time="200ms" strength="weak"/>
+        And 2 cups of semisweet or bittersweet chocolate chips.
     </speak>
     `,
     
