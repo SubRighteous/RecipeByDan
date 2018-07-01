@@ -46,15 +46,15 @@ const CookiesRecipe = {
     </speak>
     `,
     
-    'Step 1' : ssml`
+    'Step_1' : ssml`
     <speak>
         Step 1, Get a cookbook.
     </speak>
     `,
     
-    'Step 2' : ssml`
+    'Step_2' : ssml`
     <speak>
-        Step 2, read the cookbook.
+        Step 2, read a cookbook.
     </speak>
     `,
     
