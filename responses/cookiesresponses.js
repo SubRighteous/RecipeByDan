@@ -110,6 +110,56 @@ const CookiesRecipe = {
         Bake for 12 to 14 minutes.
     </speak>
     `,
+    'Butter' : ssml`
+    <speak>
+        <say-as interpret-as="fraction">1+1/2</say-as> sticks of butter.
+    </speak>
+    `,
+    'Sugar' : ssml`
+    <speak>
+         <say-as interpret-as="fraction">1+1/4</say-as> cups of light brown sugar, firmly packed.
+    </speak>
+    `,
+    'CornSyrup' : ssml`
+    <speak>
+        <say-as interpret-as="fraction">1/4</say-as> cup of light corn syrup.
+    </speak>
+    `,
+    'VanillaExtract' : ssml`
+    <speak>
+       2 teaspoons of vanilla extract.
+    </speak>
+    `,
+    'BakingPowder' : ssml`
+    <speak>
+        <say-as interpret-as="fraction">3/4</say-as> teaspoon of baking powder.
+    </speak>
+    `,
+    'Salt' : ssml`
+    <speak>
+        <say-as interpret-as="fraction">3/4</say-as> teaspoon of salt.
+    </speak>
+    `,
+     'BakingSoda' : ssml`
+    <speak>
+        <say-as interpret-as="fraction">1/4</say-as> teaspoon of baking soda.
+    </speak>
+    `,
+     'Egg' : ssml`
+    <speak>
+        1 Large Egg.
+    </speak>
+    `,
+     'Flour' : ssml`
+    <speak>
+       <say-as interpret-as="fraction">2+1/4</say-as> cups of unbleached all-purpose flour.
+    </speak>
+    `,
+    'ChocolateChips' : ssml`
+    <speak>
+       2 cups of semisweet or bittersweet chocolate chips.
+    </speak>
+    `,
     
 };
 
