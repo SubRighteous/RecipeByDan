@@ -93,7 +93,7 @@ const CookiesRecipe = {
         <break time="200ms" strength="weak"/>
         Add in the vanilla extract and mix in the egg.
         <break time="200ms" strength="weak"/>
-        In a seperate bowl, put the flour, baking powder, baking soda, salt and add in some coco powder.
+        In a separate bowl, put the flour, baking powder, baking soda, salt and add in some coco powder.
         <break time="200ms" strength="weak"/>
         Add flour mixture into the cookie dough.
         <break time="200ms" strength="weak"/>
