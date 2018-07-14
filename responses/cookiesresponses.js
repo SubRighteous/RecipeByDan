@@ -140,37 +140,37 @@ const CookiesRecipe = {
         <break time="200ms" strength="weak"/>
         And Bake for 12 to 14 minutes.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -178,37 +178,37 @@ const CookiesRecipe = {
     <speak>
         Preheat the oven to 375 degrees.
 
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
 
     </speak>
@@ -217,37 +217,37 @@ const CookiesRecipe = {
     <speak>
         Bake for 12 to 14 minutes.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -255,37 +255,37 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">1+1/2</say-as> sticks of butter.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -293,37 +293,37 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">1+1/4</say-as> cups of light brown sugar, firmly packed.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -331,37 +331,38 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">1/4</say-as> cup of light corn syrup.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+
 
     </speak>
     `,
@@ -369,37 +370,38 @@ const CookiesRecipe = {
     <speak>
        2 teaspoons of vanilla extract.
        
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
-       <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+
 
     </speak>
     `,
@@ -407,37 +409,37 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">3/4</say-as> teaspoon of baking powder.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -445,37 +447,37 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">3/4</say-as> teaspoon of salt.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -483,37 +485,37 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">1/4</say-as> teaspoon of baking soda.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -521,37 +523,37 @@ const CookiesRecipe = {
     <speak>
          1 Large Egg.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
@@ -559,37 +561,38 @@ const CookiesRecipe = {
     <speak>
         <say-as interpret-as="fraction">2+1/4</say-as> cups of unbleached all-purpose flour.
         
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+
 
     </speak>
     `,
@@ -597,37 +600,37 @@ const CookiesRecipe = {
     <speak>
         2 cups of semisweet or bittersweet chocolate chips.
        
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s""/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
+        <break time="10s"/>
 
     </speak>
     `,
