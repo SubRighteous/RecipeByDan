@@ -52,7 +52,7 @@ const CookiesRecipe = {
         The cookies will look slightly underdone in the middle, but will set up as they cool.
         <break time="200ms" strength="weak"/>
         Cool on the baking sheets for 5 minutes.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     
@@ -83,7 +83,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">2+1/4</say-as> cups of unbleached all-purpose flour.
         <break time="200ms" strength="weak"/>
         And 2 cups of semisweet or bittersweet chocolate chips.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     
@@ -98,7 +98,7 @@ const CookiesRecipe = {
         Add flour mixture into the cookie dough.
         <break time="200ms" strength="weak"/>
         Editor's Note : Beat well.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
 
     </speak>
     `,
@@ -108,79 +108,79 @@ const CookiesRecipe = {
         Step 2, Drop Cookie dough by the rounded tablespoon onto lightly greased or parchment-lined sheet pans. 
         <break time="200ms" strength="weak"/>
         And Bake for 12 to 14 minutes.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'PreHeat' : ssml`
     <speak>
         Preheat the oven to 375 degrees.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'Bake' : ssml`
     <speak>
         Bake for 12 to 14 minutes.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'Butter' : ssml`
     <speak>
         <say-as interpret-as="fraction">1+1/2</say-as> sticks of butter.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'Sugar' : ssml`
     <speak>
          <say-as interpret-as="fraction">1+1/4</say-as> cups of light brown sugar, firmly packed.
-         <break time="99999s" strength="weak"/>
+         <break time="999s" strength="weak"/>
     </speak>
     `,
     'CornSyrup' : ssml`
     <speak>
         <say-as interpret-as="fraction">1/4</say-as> cup of light corn syrup.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'VanillaExtract' : ssml`
     <speak>
        2 teaspoons of vanilla extract.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'BakingPowder' : ssml`
     <speak>
         <say-as interpret-as="fraction">3/4</say-as> teaspoon of baking powder.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'Salt' : ssml`
     <speak>
         <say-as interpret-as="fraction">3/4</say-as> teaspoon of salt.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
      'BakingSoda' : ssml`
     <speak>
         <say-as interpret-as="fraction">1/4</say-as> teaspoon of baking soda.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
      'Egg' : ssml`
     <speak>
         1 Large Egg.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
      'Flour' : ssml`
     <speak>
        <say-as interpret-as="fraction">2+1/4</say-as> cups of unbleached all-purpose flour.
-        <break time="99999s" strength="weak"/>
+        <break time="999s" strength="weak"/>
     </speak>
     `,
     'ChocolateChips' : ssml`
     <speak>
        2 cups of semisweet or bittersweet chocolate chips.
-       <break time="99999s" strength="weak"/>
+       <break time="999s" strength="weak"/>
     </speak>
     `,
     
