@@ -12,18 +12,20 @@ const minibrowniecupsRecipe = {
     
     'leadIntoRecipe': ssml`
     <speak>
-        Here is your mini brownie cups receipe
+        Here is your mini brownie cups receipe. 
+        Do you want the ingredients or the directions? 
+
     </speak>
     `,
     
     'Directions' : ssml`
     <speak>
-        Heat oven to 350 degrees fahrenheit. 
-        <break time="200ms"/>
-        line 24 small muffin cups with paper bake cups or spray with vegetable cooking spray.
-        <break time="200ms"/>
+        Preheat the oven to 350 degrees fahrenheit. 
+
+        Line 24 small muffin cups with paper baking cups  or spray with vegetable cooking spray.
+    
         In a small saucepan over low heat, melt corn oil spread; cool slightly. 
-        In a small mixer bowl, beat egg whites and egg on medium speed of electric mixer until foamy. 
+        In a small mixer bowl, beat egg whites and egg on medium speed  until foamy. 
         Gradually add sugar, beating until slightly thickened and light color, 
         In a small bowl, stir  together flour, cocoa, baking powder and salt. 
         Add gradually to egg mixture, beating until blended. 
@@ -31,12 +33,17 @@ const minibrowniecupsRecipe = {
         Fill nuffin cups 2/3 full with batter. 
         Bake 15 to 18 minutes until wooden pick inserted in centers comes out clean. 
         Cool Completely. 
+         <break time="1s"/>
         Now  to prepare the Mocha Glaze. 
-        <break time="1s"/>
+        
         In a small bowl, stir together powered sugar and cocoa. 
-        Dissolve coffee in water. 
+        Dissolve instant coffee in water. 
         Add sugar mixture, stirring until well blended. 
         Stir in vanilla. 
+        Drizzle mocha glaze over tops of brownie cups. 
+        Let stand until set.
+        Enjoy eating your mini Brownie cups.
+
         
     </speak>
     `,
