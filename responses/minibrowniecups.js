@@ -110,4 +110,4 @@ const minibrowniecupsRecipe = {
 };
 
 
-module.exports = {CookiesRecipe};
+module.exports = {minibrowniecupsRecipe};
