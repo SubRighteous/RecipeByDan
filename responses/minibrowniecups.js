@@ -20,21 +20,21 @@ const MiniBrownieCupsRecipe = {
     
     'Directions' : ssml`
     <speak>
-<<<<<<< HEAD
+
         Heat oven to 350 degrees fahrenheit. 
         <break time="200ms"/>
         line 24 small muffin cups with paper bake cups or spray with vegetable cooking spray.
         <break time="200ms"/>
         In a small saucepan over low heat, melt corn oil spread, cool slightly. 
         In a small mixer bowl, beat egg whites and egg on medium speed of electric mixer until foamy. 
-=======
+
         Preheat the oven to 350 degrees fahrenheit. 
 
         Line 24 small muffin cups with paper baking cups  or spray with vegetable cooking spray.
     
         In a small saucepan over low heat, melt corn oil spread; cool slightly. 
         In a small mixer bowl, beat egg whites and egg on medium speed  until foamy. 
->>>>>>> origin/master
+
         Gradually add sugar, beating until slightly thickened and light color, 
         In a small bowl, stir  together flour, cocoa, baking powder and salt. 
         Add gradually to egg mixture, beating until blended. 
