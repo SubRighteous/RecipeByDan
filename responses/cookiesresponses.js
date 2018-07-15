@@ -10,7 +10,7 @@ const CookiesRecipe = {
     </speak>
     `,
     
-    'leadIntoRecipe': ssml`
+    'leadIntoRecipe' : ssml`
     <speak>
         Ok, Getting the test version of <prosody rate="110%">Chewy Chocolate Chip Cookies</prosody>.
         <break time="1s" strength="weak"/>

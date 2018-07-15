@@ -3,14 +3,14 @@
 const {ssml} = require('./utils');
 
 
-const minibrowniecupsRecipe = {
+const MiniBrownieCupsRecipe = {
     'Name' : ssml`
     <speak>
         Mini brownie cups
     </speak>
     `,
     
-    'leadIntoRecipe': ssml`
+    'leadIntoRecipe' : ssml`
     <speak>
         Here is your mini brownie cups receipe
     </speak>
@@ -22,7 +22,7 @@ const minibrowniecupsRecipe = {
         <break time="200ms"/>
         line 24 small muffin cups with paper bake cups or spray with vegetable cooking spray.
         <break time="200ms"/>
-        In a small saucepan over low heat, melt corn oil spread; cool slightly. 
+        In a small saucepan over low heat, melt corn oil spread, cool slightly. 
         In a small mixer bowl, beat egg whites and egg on medium speed of electric mixer until foamy. 
         Gradually add sugar, beating until slightly thickened and light color, 
         In a small bowl, stir  together flour, cocoa, baking powder and salt. 
@@ -103,4 +103,4 @@ const minibrowniecupsRecipe = {
 };
 
 
-module.exports = {minibrowniecupsRecipe};
+module.exports = {MiniBrownieCupsRecipe};

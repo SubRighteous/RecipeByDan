@@ -10,7 +10,7 @@ const CookiesRecipe = {
     </speak>
     `,
     
-    'leadIntoRecipe': ssml`
+    'leadIntoRecipe' : ssml`
     <speak>
         What she will say after the user askes for the recipe.
     </speak>
