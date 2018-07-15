@@ -100,37 +100,7 @@ const CookiesRecipe = {
         Editor's Note : Beat well.
 
         <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-        <break time="10s" strength="weak"/>
-
+        
     </speak>
     `,
     
@@ -141,37 +111,7 @@ const CookiesRecipe = {
         And Bake for 12 to 14 minutes.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
     'PreHeat' : ssml`
@@ -179,37 +119,6 @@ const CookiesRecipe = {
         Preheat the oven to 375 degrees.
 
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
 
     </speak>
     `,
@@ -218,37 +127,7 @@ const CookiesRecipe = {
         Bake for 12 to 14 minutes.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
     'Butter' : ssml`
@@ -256,37 +135,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">1+1/2</say-as> sticks of butter.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
     'Sugar' : ssml`
@@ -294,37 +143,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">1+1/4</say-as> cups of light brown sugar, firmly packed.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
     'CornSyrup' : ssml`
@@ -332,38 +151,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">1/4</say-as> cup of light corn syrup.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
-
+        
     </speak>
     `,
     'VanillaExtract' : ssml`
@@ -371,37 +159,6 @@ const CookiesRecipe = {
        2 teaspoons of vanilla extract.
        
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
 
     </speak>
     `,
@@ -410,37 +167,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">3/4</say-as> teaspoon of baking powder.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
     'Salt' : ssml`
@@ -448,37 +175,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">3/4</say-as> teaspoon of salt.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
      'BakingSoda' : ssml`
@@ -486,37 +183,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">1/4</say-as> teaspoon of baking soda.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
      'Egg' : ssml`
@@ -524,37 +191,7 @@ const CookiesRecipe = {
          1 Large Egg.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
      'Flour' : ssml`
@@ -562,38 +199,7 @@ const CookiesRecipe = {
         <say-as interpret-as="fraction">2+1/4</say-as> cups of unbleached all-purpose flour.
         
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
-
+        
     </speak>
     `,
     'ChocolateChips' : ssml`
@@ -601,37 +207,7 @@ const CookiesRecipe = {
         2 cups of semisweet or bittersweet chocolate chips.
        
         <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-        <break time="10s"/>
-
+        
     </speak>
     `,
     
