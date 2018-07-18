@@ -83,35 +83,64 @@ const MiniBrownieCupsRecipe = {
     'Step_1' : ssml`
     <speak>
 
-        Step 1 goes here.
+     line 24 small muffin cups with paper bake cups or spray with vegetable cooking spray.    
 
     </speak>
     `,
+ 
     
     'Step_2' : ssml`
     <speak>
-        Step 2 goes here.
+        In a small saucepan over low heat, melt corn oil spread, cool slightly. 
+        In a small mixer bowl, beat egg whites and egg on medium speed of electric mixer until foamy. 
+          
+    </speak>
+        
+    `,
+    'step_3' : ssml`
+    <speak> 
+        Gradually add sugar, beating until slightly thickened and light color, 
+        In a small bowl, stir  together flour, cocoa, baking powder and salt. 
+        
+    </speak>  
+        
+    `,
+    'step_4' : ssml`
+    <speak> 
+        Add gradually to egg mixture, beating until blended. 
+    </speak>
+    `,
+     'step_5' : ssml`
+    <speak> 
+      Gradually add corn oil spread; beat until blended.
 
     </speak>
     `,
+     'step_6' : ssml`
+    <speak> 
+      Fill nuffin cups 2/3 full with batter.  
+    </speak>
+    `,
+    
     'PreHeat' : ssml`
     <speak>
 
-        Preheat temp. goes here.
+        Preheat temp. 350 degree fahrenheit.
 
     </speak>
     `,
     'Bake' : ssml`
     <speak>
 
-        Bake time goes here.
+         Bake for 15 to 18 minutes. 
+
 
     </speak>
     `,
     'Butter' : ssml`
     <speak>
         
-        Amount of butter goes here. 
+         1/4 cup or (1/2 of a stick )light corn oil spread. 
 
     </speak>
     `,
